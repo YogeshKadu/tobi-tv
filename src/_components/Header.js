@@ -9,7 +9,7 @@ function Header() {
                 <button className="px-3 py-2 bg-gray-800/50 text-2xl md:hidden rounded-lg active:scale-95">
                     <IoMenuSharp />
                 </button>
-                <h1 className="text-3xl font-medium tracking-wider font-rightous text-white">tubi</h1>
+                <h1 className="text-3xl font-medium tracking-wider font-rightous text-white">tobi</h1>
                 <button className="px-3 py-2 hidden md:inline-block text-white text-sm tracking-wide font-bold">
                     Browse
                 </button>
