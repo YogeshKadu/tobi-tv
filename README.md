@@ -10,9 +10,17 @@ i tried implementing all UI components as i could.
 
 1. Download/Clone this repository.
 2. Open repository in Command Line or any other CLI.
-3. Use below command.
+3. To load necessary packages use below node command.
 ```
-    npm install
+npm install
+```
+4. To start server use below command.
+```
+npm run start
+```
+5. To create build use below command.
+```
+npm run build
 ```
 
 
