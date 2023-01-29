@@ -12,10 +12,10 @@ i tried implementing all UI components as i could.
 | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://tobi-tv.web.app/readme_images/Desktop/desktop1.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://tobi-tv.web.app/readme_images/Desktop/desktop2.png"> |
 | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://tobi-tv.web.app/readme_images/Desktop/desktop1.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://tobi-tv.web.app/readme_images/Desktop/desktop2.png"> |
 
-![Home Screen](.public/readme_images/Desktop/desktop1.png)
-![Home Screen](.public/readme_images/Desktop/desktop2.png)
-![Home Screen](.public/readme_images/Mobile/mobile1.png)
-![Home Screen](.public/readme_images/Mobile/mobile2.png)
+![Home Screen](./public/readme_images/Desktop/desktop1.png)
+![Home Screen](./public/readme_images/Desktop/desktop2.png)
+![Home Screen](./public/readme_images/Mobile/mobile1.png)
+![Home Screen](./public/readme_images/Mobile/mobile2.png)
 
 # ####
 #  Implementation
