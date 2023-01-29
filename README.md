@@ -7,10 +7,10 @@ Thought it's just a ===chip copy of [Tubitv](https://tubitv.com/home) website===
 i tried implementing all UI components as i could.
 
 #  Screenshots
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./readme_images/header.png">  blah |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./readme_images/header.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./readme_images/header.png">|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./readme_images/header.png">  blah |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./readme_images/header.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./readme_images/header.png">|
+|Screenshots |
+|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://tobi-tv.web.app/readme_images/Desktop/desktop1.png">  blah |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://tobi-tv.web.app/readme_images/Desktop/desktop2.png">  blah |
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://tobi-tv.web.app/readme_images/Mobile/mobile1.png">  blah |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://tobi-tv.web.app/readme_images/Mobile/mobile1.png">   blah |
 
 ![Home Screen](./readme_images/header.png)
 ![Home Screen](./readme_images/header.png)
