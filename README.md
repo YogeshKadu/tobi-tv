@@ -7,9 +7,9 @@ Thought it's just a chip copy of [Tubitv](https://tubitv.com/home) website,
 i tried implementing all UI components as i could.
 
 #  Screenshots
-![Home Screen](./readme_images/header.PNG)
-![Home Screen](./readme_images/header.PNG)
-![Home Screen](./readme_images/header.PNG)
+| Screenshots ||
+|![Home Screen](./readme_images/header.PNG)||
+![Home Screen](./readme_images/header.PNG)|![Home Screen](./readme_images/header.PNG)|
 
 # ####
 #  Implementation
