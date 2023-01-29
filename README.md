@@ -3,7 +3,7 @@
 This Tobi-TV is Movie streaming Template Build in React and Tailwind CSS.
 
 ### tubitv
-Thought it's just a ===chip copy of [Tubitv](https://tubitv.com/home) website===,
+Thought it's just a === chip copy of [Tubitv](https://tubitv.com/home) website ===,
 i tried implementing all UI components as i could.
 
 #  Screenshots
