@@ -1,12 +1,18 @@
-# Tobi TV
+#  Tobi TV
 
 This Tobi-TV is Movie streaming Template Build in React and Tailwind CSS.
 
+### tubitv
 Thought it's just a chip copy of [Tubitv](https://tubitv.com/home) website,
 i tried implementing all UI components as i could.
 
+#  Screenshots
+![Home Screen](./readme_images/header.PNG)
+![Home Screen](./readme_images/header.PNG)
+![Home Screen](./readme_images/header.PNG)
+
 # ####
-# Implementation
+#  Implementation
 
 1. Download/Clone this repository.
 2. Open repository in Command Line or any other CLI.
