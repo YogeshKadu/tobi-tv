@@ -6,12 +6,15 @@ This Tobi-TV is Movie streaming Template Build in React and Tailwind CSS.
 Thought it's just a chip copy of [Tubitv](https://tubitv.com/home) website,
 i tried implementing all UI components as i could.
 
-#  Screenshots
+# Resources
+[Tubitv](https://tubitv.com/home)
+[IMDB API](https://imdb-api.com/en)
 
-| Devices | Header | Sections |
-|:-----------:|:-------------------------:|:-------------------------:|
-|Desktop|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://tobi-tv.web.app/readme_images/Desktop/desktop1.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://tobi-tv.web.app/readme_images/Desktop/desktop2.png">|
-|Mobile|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://tobi-tv.web.app/readme_images/Mobile/mobile1.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://tobi-tv.web.app/readme_images/Mobile/mobile2.png">|
+#  Screenshots
+| Mobile | Desktop |
+|:-------------------------:|:-------------------------:|
+|<img  alt="Tobi TV Desktop UI one" src="https://tobi-tv.web.app/readme_images/Desktop/desktop1.png">|<img alt="Tobi TV Mobile UI one" src="https://tobi-tv.web.app/readme_images/Mobile/mobile1.png">|
+|<img alt="Tobi TV Desktop UI two" src="https://tobi-tv.web.app/readme_images/Desktop/desktop2.png">|<img alt="Tobi TV Mobile UI two" src="https://tobi-tv.web.app/readme_images/Mobile/mobile2.png">|
 
 #
 #  Implementation
