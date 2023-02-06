@@ -1,4 +1,5 @@
-import React, { useContext } from 'react'
+import React from 'react';
+import { useParams } from 'react-router-dom';
 
 export default function Theater() {
     // https://imdb-api.com/en/API/YouTubeTrailer/k_4gnm15cg/tt1375666
@@ -12,7 +13,10 @@ export default function Theater() {
         "videoUrl": "https://www.youtube.com/watch?v=Jvurpf91omw",
         "errorMessage": ""
     };
+    const { id } = useParams();
 
+
+ 
     // https://imdb-api.com/en/API/Title/k_4gnm15cg/tt1375666
     const titleDetails={
         "id": "tt1375666",
@@ -332,13 +336,25 @@ export default function Theater() {
   return (
     <div className='w-full bg-transparent pt-24 overflow-hidden border-t border-slate-700'>
       <div className='flex py-3 sm:py-5 mx-3 sm:mx-5 md:mx-16 h-80 md:h-[600px] border-b-2 border-gray-700'>
-        <iframe src={`https://www.youtube.com/embed/${youtubeVideo.videoId}`} width="100%" height="100%" className='rounded-sm rounded-2xl' />
+        <iframe title={id} src={`https://www.youtube.com/embed/${youtubeVideo.videoId}`} width="100%" height="100%" className='rounded-sm rounded-2xl' />
       </div>
-      <div className='flex flex-col m-5 md:mx-16 md:my-10'>
-        <div className='flex flex-row w-full bg-transparent gap-4'>
-            <div className='w-32 md:w-48 bg-black overflow-hidden rounded-sm md:rounded-md shadow-md flex-shrink-0'>
-                <img src={titleDetails.image} />
+      <div className='max-w-full flex mx-3 sm:mx-5 md:mx-16 my-5'>
+        <div className='w-full flex flex-row gap-5'>
+          <div className='w-48 flex-shrink-0 hidden md:block overflow-hidden rounded'>
+            <img src={titleDetails.image} alt={titleDetails.title} />
+          </div>
+          <div className='flex-auto mt-3 md:mt-0 flex flex-col gap-5'>
+            <h1 className='text-3xl font-bold'>{titleDetails.fullTitle}</h1>
+            <p className='tags flex flex-wrap gap-2 text-sm'>
+              {
+                titleDetails.keywordList.map((item)=> <button key={item} className='rounded-l-full rounded-r-full px-3 pb-1 bg-slate-400/20'>{item}</button>)
+              }
+            </p>
+            <div className=''>
+              <h3 className='text-lg font-semibold'>Story :</h3>
+              <p>{titleDetails.plot}</p>
             </div>
+          </div>
         </div>
       </div>
     </div>
